@@ -4,7 +4,7 @@
 //*
 
 class Segment {
-
+//TEst
 //Add x and y member variables. They will hold the corner location of each segment of the snake.
 
 
